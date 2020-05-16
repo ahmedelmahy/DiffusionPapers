@@ -2,8 +2,6 @@
 
 Contributed by Hao Wang, Haoran Wang and [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ&hl=en) from School of Computer Science, Beijing University of Posts and Telecommunications.
 ## 2020
- Cascade-LSTM: Predicting Information Cascades using Deep Neural Networks. .
-
 1. **Cascade-LSTM: Predicting Information Cascades using Deep Neural Networks.** 
 *Horawalavithana, S., Skvoretz, J., & Iamnitchi, A. (2020).*
 arXiv preprint arXiv:2004.12373 [paper](https://arxiv.org/pdf/2004.12373.pdf)
